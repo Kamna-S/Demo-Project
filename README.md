@@ -158,5 +158,6 @@ pytest-html
 ```bash
 pytest --html=reports/report.html --self-contained-html
 ```
+![image](https://github.com/user-attachments/assets/b78abefc-ffc9-4b9c-81f2-cfef567815f6)
 
 ---
